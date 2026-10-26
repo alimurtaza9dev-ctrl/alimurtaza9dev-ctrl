@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Murtaza 👋
 
-**Machine Learning Engineer | Building Agentic AI, Autonomous Systems & Predictive Models**
+**Machine Learning Engineer | Agentic AI & Autonomous Systems Architect**
 
 I specialize in architecting context-aware autonomous agents, dual-model financial risk platforms, and predictive machine learning pipelines. Moving beyond single-prompt applications, I focus on multi-step reasoning loops, Model Context Protocol (MCP), and quantitative grounding.
 
@@ -17,9 +17,11 @@ I specialize in architecting context-aware autonomous agents, dual-model financi
 * **[Fresher Juice Co. 3D](https://github.com/alimurtaza9dev-ctrl/fresher-juice-3d):** 250-frame scroll-driven canvas animation with Web Audio synthesizer and live e-commerce cart.
 
 ### 🏆 Fellowships & Certifications
+* **Aspire Leaders Program (Cohort 4) - Administered by Aspire Institute & Harvard Faculty**
 * **Microsoft Learn Student Ambassador**
 * **McKinsey & Company Forward Program (Core Skills)**
 * **NOBEL Fundamentals Learner-to-Leader Program**
+* **LEAD Organization - Program Contributor**
 * **5x Google Career Certified:** Data Analytics, AI Essentials, AI Professional, Project Management, IT Support
 
 📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/ali-murtaza-907863396) | [Email](mailto:alimurtaza.9dev@gmail.com) | [Live Portfolio](https://alimurtaza9dev-ctrl.github.io)
